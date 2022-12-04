@@ -26,7 +26,8 @@
 ## 사용 기술 및 환경
 
 ## Wiki
-
+- 자세한 사항은 위키를 통해 확인할 수 있습니다. 
+- https://github.com/fairy-taler/main/wiki
 ## CI
 
 ## CD
