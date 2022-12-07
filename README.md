@@ -2,6 +2,7 @@
 책장 속 고양이는 유아 및 유치원 교사가 함께 사용할 수 있는 동화 교육 콘텐츠입니다. 
 타켓층에 따라 교사와 유아버전으로 나뉘어 더욱 효율적인 활용이 가능합니다. 
 
+
 ## 프로젝트 목적
 - 유아의 언어발달에 도움을 줄 수 있을 컨텐츠 제작
 - 교사들의 수업진행에 도움
@@ -51,6 +52,10 @@ JAVA 코드 컨벤션을 작성하여 준수
 ![image](https://user-images.githubusercontent.com/109029169/204690947-77cded5e-1f1b-438c-9a23-19f732bf0486.png)
 
 ### 웹 서비스 화면 설계
+![image](https://user-images.githubusercontent.com/109029169/206195717-3a154962-8852-4bf1-aa53-e676b047bd21.png)
+![image](https://user-images.githubusercontent.com/109029169/206195805-71864295-5375-4c3e-9b71-d6a80c467755.png)
+![image](https://user-images.githubusercontent.com/109029169/206195907-c2802d09-4a78-4b04-a30a-29782f4691df.png)
+
 
 ## 프로젝트 DB ERD
 
