@@ -25,6 +25,11 @@ JAVA 코드 컨벤션을 작성하여 준수
 - git-flow를 통해 브랜치 관리
 - PR : https://github.com/fairy-taler/backend/pulls
 - ISSUE : https://github.com/fairy-taler/backend/issues
+
+참고 문헌
+우아한 형제들 기술 블로그(http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
+
+
 ### 테스트
 ### 성능 테스트
 
@@ -57,6 +62,5 @@ JAVA 코드 컨벤션을 작성하여 준수
 ![image](https://user-images.githubusercontent.com/109029169/206195907-c2802d09-4a78-4b04-a30a-29782f4691df.png)
 
 
-## 프로젝트 DB ERD
-
+## 프로젝트 DB ERD회
 
