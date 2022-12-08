@@ -20,7 +20,7 @@
 JAVA 코드 컨벤션을 작성하여 준수 
 링크 : https://github.com/fairy-taler/main/wiki
 
-
+- 성능 최적화
 ### 브랜치 관리 전략 
 - git-flow를 통해 브랜치 관리
 - PR : https://github.com/fairy-taler/backend/pulls
