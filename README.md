@@ -4,14 +4,11 @@
 
 유니티를 어플리케이션, 웹브라우저로 접근 가능한 웹서비스를 제공합니다. 
 
-
 ## 프로젝트 목적
 - 유아의 언어발달에 도움을 줄 수 있을 컨텐츠 제작
 - 교사들의 수업진행에 도움
 - 설문조사를 통해 저희 서비스의 상용화 가능성을 조사했습니다. 
 ![image](https://user-images.githubusercontent.com/109029169/204691713-4ea19f0a-0c4a-463b-9251-1db95030cf7b.png)
-
-  
 
 ## 프로젝트 구조도
 ![image](https://user-images.githubusercontent.com/109029169/204687935-a6a0f93e-488e-4811-8e8c-b4fb801a510b.png)
