@@ -13,7 +13,6 @@
 ## 프로젝트 구조도
 ![image](https://user-images.githubusercontent.com/109029169/204687935-a6a0f93e-488e-4811-8e8c-b4fb801a510b.png)
 
-
 ## 프로젝트 주요 관심사
 - 코드 컨벤션
 JAVA 코드 컨벤션을 작성하여 준수 
